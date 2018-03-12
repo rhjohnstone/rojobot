@@ -1,0 +1,2 @@
+# rojobot
+Playing with GDAX
